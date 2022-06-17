@@ -15,7 +15,7 @@
   "author": "Tega",
   "license": "MIT",
   "dependencies": {
-    "electron": "^5.0.7"
+    "electron": "^15.5.5"
   },
   "devDependencies": {
     "electron-packager": "^14.0.1"
